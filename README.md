@@ -1,6 +1,8 @@
 # Web Components and Wordpress
 A simple website built with WC on top of Wordpress. Complete with a nice Webpack build process.
 
+![](https://github.com/mini-eggs/Web-Components-and-Wordpress/blob/master/artwork/intro.PNG?raw=true)
+
 #### Setup
 1)  Initialize a Wordpress installation
 2)  Run Wordpress on http://localhost:80/
