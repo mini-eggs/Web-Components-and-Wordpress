@@ -1,0 +1,13 @@
+client/node_modules
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+!server/
+server/*
+!server/wp-content/
+server/wp-content/*
+!server/wp-content/themes/
+server/wp-content/themes/*
+!server/wp-content/themes/custom-theme
+server/wp-content/themes/custom-theme/dist

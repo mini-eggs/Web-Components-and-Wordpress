@@ -1,0 +1,12 @@
+.header {
+  height: 100vh;
+  background-color: lightblue;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.header span {
+  text-align: center;
+}
